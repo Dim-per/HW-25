@@ -1,0 +1,25 @@
+.div-1 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+   position: absolute;
+   z-index: 1;
+}
+.div-2 {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+   position: absolute;
+   top: 70px;
+   left: 70px;
+   z-index: 2;
+}
+.div-3 {
+  background-color: green;
+   top: 140px;
+   left: 140px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  z-index: 1;
+}
